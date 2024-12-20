@@ -20,5 +20,5 @@ This project demonstrates a real-time data pipeline using **Apache Kafka** to st
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/kafka-weather-project.git
+git clone https://github.com/chaa333bouni/London-weather-kafka-tutorial-.git
 cd kafka-weather-project
